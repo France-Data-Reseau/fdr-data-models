@@ -1,0 +1,6 @@
+{
+    "@context": [
+        "https://raw.githubusercontent.com/france-data-reseau/fdr-data-models/master/eaupotable/jsonld-contexts/canalisation-compound.jsonld",
+        "https://raw.githubusercontent.com/france-data-reseau/fdr-data-models/master/eaupotable/jsonld-contexts/reparation-compound.jsonld"
+    ]
+}

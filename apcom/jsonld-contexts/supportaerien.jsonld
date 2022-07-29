@@ -1,0 +1,13 @@
+{
+	"@context": {
+		"SupportAerien": "https://ontology.francedatareseau.fr/apcom#SupportAerien",
+		"geometry": "ngsi-ld:location",
+		"Nature": "https://ontology.francedatareseau.fr/apcom/equipement/Nature",
+		"TypePhysique": "https://ontology.francedatareseau.fr/apcom/supportaerien/TypePhysique",
+		"Proprietaire": "https://ontology.francedatareseau.fr/apcom/equipement/Proprietaire",
+		"Gestionnaire": "https://ontology.francedatareseau.fr/apcom/equipement/Gestionnaire",
+		"Materiau": "https://ontology.francedatareseau.fr/apcom/equipement/Materiau",
+		"HauteurAppui": "https://ontology.francedatareseau.fr/apcom/equipement/HauteurAppui",
+		"HauteurTotal": "https://ontology.francedatareseau.fr/apcom/equipement/HauteurTotal"
+	}
+}

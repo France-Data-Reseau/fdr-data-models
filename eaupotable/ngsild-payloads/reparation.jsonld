@@ -1,0 +1,93 @@
+{
+  "id": "urn:ngsi-ld:EauPotable:Reparation:reparation_811728419_ID_D981",
+    "type": [
+      "Reparation"
+    ],
+
+    "data_owner_id": {
+        "type": "Property",
+        "value": "811728419"
+      },
+    "src_kind": {
+        "type": "Property",
+        "value": "reparations"
+      },
+    "src_name": {
+        "type": "Property",
+        "value": "reparations_811728419"
+      },
+    "src_priority": {
+        "type": "Property",
+        "value": "reparations"
+      },
+    "src_id": {
+        "type": "Property",
+        "value": "ID_D981"
+      },
+    "fdr_id": {
+        "type": "Property",
+        "value": "reparation_811728419_ID_D981"
+      },
+    "uuid": {
+        "type": "Property",
+        "value": "05841472-1d3c-5126-bd6f-c02cef2e8fc2"
+      },
+
+    "idReparation": {
+        "type": "Property",
+        "value": "ID_D981"
+      },
+    "location": {
+        "type": "GeoProperty",
+        "value": {
+          "type": "Point",
+          "coordinates": [
+            0.363591,
+            47.4475859
+          ]
+        }
+      },
+    "supportIncident": {
+        "type": "Property",
+        "value": "ID_2725"
+      },
+    "happenedOnCanalisation": {
+        "type": "Relationship",
+        "object": "urn:ngsi-ld:Canalisation:canalisations_abandonnees_811728419_ID_2725"
+      },
+    "dateIntervention": {
+        "type": "Property",
+        "value": "2014-03-19"
+      },
+    "qualiteGeolocalisation": {
+        "type": "Property",
+        "value": "2"
+      },
+    "materiau": {
+        "type": "Property",
+        "value": "18"
+      },
+    "diametreNominal": {
+        "type": "Property",
+        "value": 200
+      },
+    "datePose": {
+        "type": "Property",
+        "value": "2000-01-01"
+      },
+    "emplacement": {
+        "type": "Property",
+        "value": "2"
+      },
+    "type": {
+        "type": "Property",
+        "value": "2"
+      },
+    "causeProbable": {
+        "type": "Property",
+        "value": "8"
+      },
+  "@context": [
+    "https://raw.githubusercontent.com/france-data-reseau/fdr-data-models/master/eaupotable/jsonld-contexts/reparation-compound.jsonld"
+  ]
+}

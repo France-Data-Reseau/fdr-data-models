@@ -1,0 +1,17 @@
+{
+	"@context": {
+		"Reparation": "https://ontology.francedatareseau.fr/eaupotable#Reparation",
+		"idReparation": "https://ontology.francedatareseau.fr/eaupotable/reparation/idReparation",
+		"geometrie": "https://ontology.francedatareseau.fr/eaupotable/reparation/geometrie",
+		"supportIncident": "https://ontology.francedatareseau.fr/eaupotable/reparation/supportIncident",
+		"happenedOnCanalisation": "https://ontology.francedatareseau.fr/eaupotable/reparation/happenedOnCanalisation",
+		"dateIntervention": "https://ontology.francedatareseau.fr/eaupotable/reparation/dateIntervention",
+		"qualiteGeolocalisation": "https://ontology.francedatareseau.fr/eaupotable/reparation/qualiteGeolocalisation",
+		"materiau": "https://ontology.francedatareseau.fr/eaupotable/reparation/materiau",
+		"diametreNominal": "https://ontology.francedatareseau.fr/eaupotable/reparation/diametreNominal",
+		"datePose": "https://ontology.francedatareseau.fr/eaupotable/reparation/datePose",
+		"emplacement": "https://ontology.francedatareseau.fr/eaupotable/reparation/emplacement",
+		"typeReparation": "https://ontology.francedatareseau.fr/eaupotable/reparation/type",
+		"causeProbable": "https://ontology.francedatareseau.fr/eaupotable/reparation/causeProbable"
+	}
+}

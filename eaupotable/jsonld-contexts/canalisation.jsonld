@@ -1,0 +1,24 @@
+{
+	"@context": {
+		"Canalisation": "https://ontology.francedatareseau.fr/eaupotable#Canalisation",
+		"idCanalisation": "https://ontology.francedatareseau.fr/eaupotable/canalisation/idCanalisation",
+		"geometrie": "https://ontology.francedatareseau.fr/eaupotable/canalisation/geometrie",
+		"materiau": "https://ontology.francedatareseau.fr/eaupotable/canalisation/materiau",
+		"diametreNominal": "https://ontology.francedatareseau.fr/eaupotable/canalisation/diametreNominal",
+		"datePose": "https://ontology.francedatareseau.fr/eaupotable/canalisation/datePose",
+		"maitreOuvrage": "https://ontology.francedatareseau.fr/eaupotable/canalisation/maitreOuvrage",
+		"exploitant": "https://ontology.francedatareseau.fr/eaupotable/canalisation/exploitant",
+		"enService": "https://ontology.francedatareseau.fr/eaupotable/canalisation/enService",
+		"branchement": "https://ontology.francedatareseau.fr/eaupotable/canalisation/branchement",
+		"modeCirculation": "https://ontology.francedatareseau.fr/eaupotable/canalisation/modeCirculation",
+		"anPoseInf": "https://ontology.francedatareseau.fr/eaupotable/canalisation/anPoseInf",
+		"anPoseSup": "https://ontology.francedatareseau.fr/eaupotable/canalisation/anPoseSup",
+		"longueur": "https://ontology.francedatareseau.fr/eaupotable/canalisation/longueur",
+		"qualiteGeolocalisation": "https://ontology.francedatareseau.fr/eaupotable/canalisation/qualiteGeolocalisation",
+		"sourceMateriau": "https://ontology.francedatareseau.fr/eaupotable/canalisation/sourceMateriau",
+		"sourceDiametreNominal": "https://ontology.francedatareseau.fr/eaupotable/canalisation/sourceDiametreNominal",
+		"sourceDatePose": "https://ontology.francedatareseau.fr/eaupotable/canalisation/sourceDatePose",
+		"dateAbandon": "https://ontology.francedatareseau.fr/eaupotable/canalisation/dateAbandon",
+		"sourceDateAbandon": "https://ontology.francedatareseau.fr/eaupotable/canalisation/sourceDateAbandon"
+	}
+}

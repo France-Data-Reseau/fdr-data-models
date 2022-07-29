@@ -1,0 +1,5 @@
+{
+    "@context": [
+        "https://raw.githubusercontent.com/france-data-reseau/fdr-data-models/master/eclairage_public/jsonld-contexts/point_lumineux-compound.jsonld"
+    ]
+}

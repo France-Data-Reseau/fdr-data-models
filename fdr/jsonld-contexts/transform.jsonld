@@ -1,0 +1,10 @@
+{
+	"@context": {
+		"data_owner_id": "https://ontology.francedatareseau.fr/fdr/transform/data_owner_id",
+		"src_kind": "https://ontology.francedatareseau.fr/fdr/transform/src_kind",
+		"src_name": "https://ontology.francedatareseau.fr/fdr/transform/src_name",
+		"src_priority": "https://ontology.francedatareseau.fr/fdr/transform/src_priority",
+		"src_id": "https://ontology.francedatareseau.fr/fdr/transform/src_id",
+		"uuid": "https://ontology.francedatareseau.fr/fdr/transform/uuid"
+	}
+}

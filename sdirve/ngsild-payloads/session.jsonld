@@ -1,0 +1,75 @@
+{
+  "id": "urn:ngsi-ld:sdirve:Session:sdirve_sessions_000000001_FR*S74*P74137_2021-10-01T12:52:32_2021-10-01T12:58:20",
+    "type": [
+      "Session"
+    ],
+
+    "data_owner_id": {
+        "type": "Property",
+        "value": "000000001"
+      },
+    "src_kind": {
+        "type": "Property",
+        "value": "sessions"
+      },
+    "src_name": {
+        "type": "Property",
+        "value": "sessions_000000001"
+      },
+    "src_priority": {
+        "type": "Property",
+        "value": "sessions"
+      },
+    "src_id": {
+        "type": "Property",
+        "value": ""
+      },
+    "fdr_id": {
+        "type": "Property",
+        "value": "sessions_000000001_FR*S74*P74137_2021-10-01T12:52:32_2021-10-01T12:58:20"
+      },
+    "uuid": {
+        "type": "Property",
+        "value": "05841472-1d3c-5126-bd6f-c02cef2e8fc2"
+      },
+
+    "id_station": {
+        "type": "Property",
+        "value": "FR*S74*P74137"
+      },
+    "deliveredOnStation": {
+        "type": "Relationship",
+        "object": "urn:ngsi-ld:sdirve:Station:sdirve_inventaire_000000001_FR*S74*P74137"
+      },
+    "date_debut": {
+        "type": "Property",
+        "value": "2021-10-01 12:52:32"
+      },
+    "date_fin": {
+        "type": "Property",
+        "value": "2021-10-01 12:58:20"
+      },
+    "duree_livraison": {
+        "type": "Property",
+        "value": 253
+      },
+    "puissance_max": {
+        "type": "Property",
+        "value": 22
+      },
+    "consommation": {
+        "type": "Property",
+        "value": 12.3
+      },
+    "nature_client": {
+        "type": "Property",
+        "value": "abonne"
+      },
+    "operateur_mobilite": {
+        "type": "Property",
+        "value": "Opérateur"
+      },
+  "@context": [
+    "https://raw.githubusercontent.com/france-data-reseau/fdr-data-models/master/sdirve/jsonld-contexts/session-compound.jsonld"
+  ]
+}

@@ -1,0 +1,59 @@
+{
+  "id": "urn:ngsi-ld:AppuisCommuns:SuiviOccupation:apcom_000000001_apcomsuocex3",
+    "type": [
+      "SuiviOccupation"
+    ],
+
+    "data_owner_id": {
+        "type": "Property",
+        "value": "000000001"
+      },
+    "src_kind": {
+        "type": "Property",
+        "value": "apcom"
+      },
+    "src_name": {
+        "type": "Property",
+        "value": "apcom_000000001"
+      },
+    "src_priority": {
+        "type": "Property",
+        "value": "apcom"
+      },
+    "src_id": {
+        "type": "Property",
+        "value": "apcom_000000001_apcomsuocex3"
+      },
+    "uuid": {
+        "type": "Property",
+        "value": "9e90dfdd-f3b2-5c84-a378-3a0fa12d0100"
+      },
+
+    "RefEquipement": {
+        "type": "Property",
+        "value": "9e90dfdd-f3b2-5c84-a378-3a0fa12d0100"
+      },
+    "aboutEquipement": {
+        "type": "Relationship",
+        "object": "urn:ngsi-ld:AppuisCommuns:Equipement:birdz_000000001_apcomocex1"
+      },
+    "DebutOccupation": {
+        "type": "Property",
+        "value": "2019-06-13"
+      },
+    "Convention": {
+        "type": "Property",
+        "value": "conventionx"
+      },
+    "Montant": {
+        "type": "Property",
+        "value": 75.20
+      },
+    "DureeOccupation": {
+        "type": "Property",
+        "value": 7305
+      },
+  "@context": [
+    "https://raw.githubusercontent.com/france-data-reseau/fdr-data-models/master/apcom/jsonld-contexts/suivioccupation-compound.jsonld"
+  ]
+}

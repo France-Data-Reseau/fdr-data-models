@@ -1,0 +1,15 @@
+{
+	"@context": {
+		"SuiviOccupation": "https://ontology.francedatareseau.fr/apcom#SuiviOccupation",
+		"RefOccupation": "https://ontology.francedatareseau.fr/apcom/suivioccupation/RefOccupation",
+		"aboutOccupation": "https://ontology.francedatareseau.fr/apcom/suivioccupation/aboutOccupation",
+		"RefEquipement": "https://ontology.francedatareseau.fr/apcom/suivioccupation/RefEquipement",
+		"aboutEquipement": "https://ontology.francedatareseau.fr/apcom/suivioccupation/aboutEquipement",
+		"DebutOccupation": "https://ontology.francedatareseau.fr/apcom/suivioccupation/DebutOccupation",
+		"DebutOccupation": "https://ontology.francedatareseau.fr/apcom/suivioccupation/DebutOccupation",
+		"DebutOccupation": "https://ontology.francedatareseau.fr/apcom/suivioccupation/DebutOccupation",
+		"Convention": "https://ontology.francedatareseau.fr/apcom/suivioccupation/Convention",
+		"Montant": "https://ontology.francedatareseau.fr/apcom/suivioccupation/Montant",
+		"DureeOccupation": "https://ontology.francedatareseau.fr/apcom/suivioccupation/DureeOccupation"
+	}
+}

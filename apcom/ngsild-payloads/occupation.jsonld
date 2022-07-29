@@ -1,0 +1,59 @@
+{
+  "id": "urn:ngsi-ld:AppuisCommuns:Occupation:apcom_000000001_apcomocex1",
+    "type": [
+      "Occupation"
+    ],
+
+    "data_owner_id": {
+        "type": "Property",
+        "value": "000000001"
+      },
+    "src_kind": {
+        "type": "Property",
+        "value": "apcom"
+      },
+    "src_name": {
+        "type": "Property",
+        "value": "apcom_000000001"
+      },
+    "src_priority": {
+        "type": "Property",
+        "value": "apcom"
+      },
+    "src_id": {
+        "type": "Property",
+        "value": "apcomocex1"
+      },
+    "uuid": {
+        "type": "Property",
+        "value": "9e90dfdd-f3b2-5c84-a378-3a0fa12d0110"
+      },
+
+    "IdOccupation": {
+        "type": "Property",
+        "value": "9e90dfdd-f3b2-5c84-a378-3a0fa12d0110"
+      },
+    "RefEquipement": {
+        "type": "Property",
+        "value": "9e90dfdd-f3b2-5c84-a378-3a0fa12d010"
+      },
+    "residesOnEquipement": {
+        "type": "Relationship",
+        "object": "urn:ngsi-ld:AppuisCommuns:SupportAerien:osm_775666100_node/8736382817"
+      },
+    "Gestionnaire": {
+        "type": "Property",
+        "value": "Orange"
+      },
+    "Technologie": {
+        "type": "Property",
+        "value": "FIBRE"
+      },
+    "Reseau": {
+        "type": "Property",
+        "value": "CT"
+      },
+  "@context": [
+    "https://raw.githubusercontent.com/france-data-reseau/fdr-data-models/master/apcom/jsonld-contexts/occupation-compound.jsonld"
+  ]
+}

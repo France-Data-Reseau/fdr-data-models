@@ -1,0 +1,119 @@
+{
+  "id": "urn:ngsi-ld:EauPotable:Canalisation:canalisations_abandonnees_811728419_ID_2725",
+    "type": [
+      "Canalisation"
+    ],
+
+    "data_owner_id": {
+        "type": "Property",
+        "value": "811728419"
+      },
+    "src_kind": {
+        "type": "Property",
+        "value": "canalisations_abandonnees"
+      },
+    "src_name": {
+        "type": "Property",
+        "value": "canalisations_abandonnees_811728419"
+      },
+    "src_priority": {
+        "type": "Property",
+        "value": "canalisations_abandonnees"
+      },
+    "src_id": {
+        "type": "Property",
+        "value": "ID_2725"
+      },
+    "fdr_id": {
+        "type": "Property",
+        "value": "canalisations_abandonnees_811728419_ID_2725"
+      },
+    "uuid": {
+        "type": "Property",
+        "value": "05841472-1d3c-5126-bd6f-c02cef2e8fc1"
+      },
+
+    "idCanalisation": {
+        "type": "Property",
+        "value": "ID_2725"
+      },
+    "location": {
+        "type": "GeoProperty",
+        "value": {"type":"LineString","coordinates":[[773785.6306,6285973.4564],[773787.4184,6285972.2092],[773790.911,6285945.5773],[773792.5069,6285933.6541],[773795.3909,6285900.9674]]}
+      },
+    "materiau": {
+        "type": "Property",
+        "value": "18"
+      },
+    "diametreNominal": {
+        "type": "Property",
+        "value": 200
+      },
+    "datePose": {
+        "type": "Property",
+        "value": "2021-05-25"
+      },
+    "maitreOuvrage": {
+        "type": "Property",
+        "value": "MMM"
+      },
+    "exploitant": {
+        "type": "Property",
+        "value": "GRAND ANNECY"
+      },
+    "enService": {
+        "type": "Property",
+        "value": true
+      },
+    "branchement": {
+        "type": "Property",
+        "value": false
+      },
+    "modeCirculation": {
+        "type": "Property",
+        "value": "Gravitaire"
+      },
+    "anPoseInf": {
+        "type": "Property",
+        "value": "1925-01-01"
+      },
+    "anPoseSup": {
+        "type": "Property",
+        "value": "1936-01-01"
+      },
+    "longueur": {
+        "type": "Property",
+        "value": 15.29
+      },
+    "qualiteGeolocalisation": {
+        "type": "Property",
+        "value": "Classe A"
+      },
+    "sourceMateriau": {
+        "type": "Property",
+        "value": "Mémoire"
+      },
+    "sourceDiametreNominal": {
+        "type": "Property",
+        "value": "Récolement"
+      },
+    "sourceDatePose": {
+        "type": "Property",
+        "value": "Récolement"
+      },
+    "dateAbandon": {
+        "type": "Property",
+        "value": "2021-05-30"
+      },
+    "sourceDateAbandon": {
+        "type": "Property",
+        "value": "2",
+        "label" : {
+            "type": "Property",
+            "value": "Récolement"
+        },
+      },
+  "@context": [
+    "https://raw.githubusercontent.com/france-data-reseau/fdr-data-models/master/eaupotable/jsonld-contexts/canalisation-compound.jsonld"
+  ]
+}

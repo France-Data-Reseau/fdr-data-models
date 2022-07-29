@@ -1,0 +1,67 @@
+{
+  "id": "urn:ngsi-ld:sdirve:Indicateur:sdirve_indicateurs_000000001_FR*S74*P74137_2021-10-01_taux_dispo",
+    "type": [
+      "Indicateur"
+    ],
+
+    "data_owner_id": {
+        "type": "Property",
+        "value": "000000001"
+      },
+    "src_kind": {
+        "type": "Property",
+        "value": "indicateurs"
+      },
+    "src_name": {
+        "type": "Property",
+        "value": "indicateurs_000000001"
+      },
+    "src_priority": {
+        "type": "Property",
+        "value": "indicateurs"
+      },
+    "src_id": {
+        "type": "Property",
+        "value": "2021-10-01_taux_dispo"
+      },
+    "fdr_id": {
+        "type": "Property",
+        "value": "indicateurs_000000001_FR*S74*P74137_2021-10-01_taux_dispo"
+      },
+    "uuid": {
+        "type": "Property",
+        "value": "05841472-1d3c-5126-bd6f-c02cef2e8fc2"
+      },
+
+    "id_station": {
+        "type": "Property",
+        "value": "FR*S74*P74137"
+      },
+    "measuredOnStation": {
+        "type": "Relationship",
+        "object": "urn:ngsi-ld:sdirve:Station:sdirve_inventaire_000000001_FR*S74*P74137"
+      },
+    "date": {
+        "type": "Property",
+        "value": "2021-10-01"
+      },
+    "duree_validite": {
+        "type": "Property",
+        "value": 200
+      },
+    "plage_horaire": {
+        "type": "Property",
+        "value": 3
+      },
+    "indicateur": {
+        "type": "Property",
+        "value": "taux_dispo"
+      },
+    "valeur": {
+        "type": "Property",
+        "value": 0.89
+      },
+  "@context": [
+    "https://raw.githubusercontent.com/france-data-reseau/fdr-data-models/master/sdirve/jsonld-contexts/indicateur-compound.jsonld"
+  ]
+}

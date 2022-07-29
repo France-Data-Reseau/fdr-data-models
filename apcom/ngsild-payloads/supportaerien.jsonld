@@ -1,0 +1,125 @@
+{
+  "id": "urn:ngsi-ld:AppuisCommuns:SupportAerien:osm_775666100_node/8736382817",
+    "type": [
+      "SupportAerien"
+    ],
+
+    "data_owner_id": {
+        "type": "Property",
+        "value": "775666100"
+      },
+    "src_kind": {
+        "type": "Property",
+        "value": "osm"
+      },
+    "src_name": {
+        "type": "Property",
+        "value": "osm_775666100"
+      },
+    "src_priority": {
+        "type": "Property",
+        "value": "osm"
+      },
+    "src_id": {
+        "type": "Property",
+        "value": "node/8736382817"
+      },
+    "fdr_id": {
+        "type": "Property",
+        "value": "osm_775666100_node/8736382817"
+      },
+    "uuid": {
+        "type": "Property",
+        "value": "05841472-1d3c-5126-bd6f-c02cef2e8fc0"
+      },
+
+    "IdSupportAerien": {
+        "type": "Property",
+        "value": "05841472-1d3c-5126-bd6f-c02cef2e8fc0"
+      },
+    "location": {
+        "type": "GeoProperty",
+        "value": {
+          "type": "Point",
+          "coordinates": [
+            0.363591,
+            47.4475859
+          ]
+        }
+      },
+    "Nature": {
+        "type": "Property",
+        "value": "POTEAU BETON"
+      },
+    "TypePhysique": {
+        "type": "Property",
+        "value": "APPUI"
+      },
+    "Proprietaire": {
+        "type": "Property",
+        "value": "SDEF"
+      },
+    "Gestionnaire": {
+        "type": "Property",
+        "value": "ENEDIS"
+      },
+    "Materiau": {
+        "type": "Property",
+        "value": "beton"
+      },
+    "HauteurAppui": {
+        "type": "Property",
+        "value": 8.5
+      },
+    "HauteurTotal": {
+        "type": "Property",
+        "value": 11.5
+      },
+    "Azimut": {
+        "type": "Property",
+        "value": 56.3
+      },
+    "CodeExterne": {
+        "type": "Property",
+        "value": "1235"
+      },
+    "CompositionAppui": {
+        "type": "Property",
+        "value": "plein"
+      },
+    "StructureAppui": {
+        "type": "Property",
+        "value": "moise"
+      },
+    "DateConstruction": {
+        "type": "Property",
+        "value": "1987"
+      },
+    "Fabricant": {
+        "type": "Property",
+        "value": ""
+      },
+    "ClasseResistance": {
+        "type": "Property",
+        "value": "D"
+      },
+    "EffortTransversal": {
+        "type": "Property",
+        "value": 56.5
+      },
+    "RemonteeAerosout": {
+        "type": "Property",
+        "value": true
+      },
+    "BandeauVert": {
+        "type": "Property",
+        "value": true
+      },
+    "ClassePrecision": {
+        "type": "Property",
+        "value": "A"
+      },
+  "@context": [
+    "https://raw.githubusercontent.com/france-data-reseau/fdr-data-models/master/apcom/jsonld-contexts/supportaerien-compound.jsonld"
+  ]
+}

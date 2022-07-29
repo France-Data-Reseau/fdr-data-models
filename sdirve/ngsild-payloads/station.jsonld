@@ -1,0 +1,201 @@
+{
+  "id": "urn:ngsi-ld:sdirve:Station:sdirve_inventaire_000000001_FR*S74*P74137",
+    "type": [
+      "Station"
+    ],
+
+    "data_owner_id": {
+        "type": "Property",
+        "value": "000000001"
+      },
+    "src_kind": {
+        "type": "Property",
+        "value": "sdirve_inventaire"
+      },
+    "src_name": {
+        "type": "Property",
+        "value": "sdirve_inventaire_000000001"
+      },
+    "src_priority": {
+        "type": "Property",
+        "value": "sdirve_inventaire"
+      },
+    "src_id": {
+        "type": "Property",
+        "value": "FR*S74*P74137"
+      },
+    "fdr_id": {
+        "type": "Property",
+        "value": "sdirve_inventaire_000000001_FR*S74*P74137"
+      },
+    "uuid": {
+        "type": "Property",
+        "value": "05841472-1d3c-5126-bd6f-c02cef2e8ff1"
+      },
+
+    "nom_amenageur": {
+        "type": "Property",
+        "value": "Société X"
+      },
+    "siren_amenageur": {
+        "type": "Property",
+        "value": "130025265"
+      },
+    "contact_amenageur": {
+        "type": "Property",
+        "value": "contact@societe-amenageur.com"
+      },
+    "nom_operateur": {
+        "type": "Property",
+        "value": "Société Y"
+      },
+    "contact_operateur": {
+        "type": "Property",
+        "value": "contact@societe-operateur.com"
+      },
+    "telephone_operateur": {
+        "type": "Property",
+        "value": "111111111"
+      },
+    "nom_enseigne": {
+        "type": "Property",
+        "value": "Réseau de recharge ABC"
+      },
+    "id_station_itinerance": {
+        "type": "Property",
+        "value": ""
+      },
+    "id_station_local": {
+        "type": "Property",
+        "value": "FR*S74*P74137"
+      },
+    "nom_station": {
+        "type": "Property",
+        "value": "Picpus"
+      },
+    "implantation_station": {
+        "type": "Property",
+        "value": "Voirie"
+      },
+    "adresse_station": {
+        "type": "Property",
+        "value": "1 avenue de la Paix 75001 Paris"
+      },
+    "code_insee_commune": {
+        "type": "Property",
+        "value": "75001"
+      },
+    "location": {
+        "type": "GeoProperty",
+        "value": {
+          "type": "Point",
+          "coordinates": [
+            7.48710500,
+            48.345345
+          ]
+        }
+      },
+    "nbre_pdc": {
+        "type": "Property",
+        "value": 10
+      },
+    "id_pdc_itinerance": {
+        "type": "Property",
+        "value": "FRA68P680210015"
+      },
+    "id_pdc_local": {
+        "type": "Property",
+        "value": ""
+      },
+    "puissance_nominale": {
+        "type": "Property",
+        "value": 22
+      },
+    "prise_type_ef": {
+        "type": "Property",
+        "value": true
+      },
+    "prise_type_2": {
+        "type": "Property",
+        "value": true
+      },
+    "prise_type_combo_ccs": {
+        "type": "Property",
+        "value": false
+      },
+    "prise_type_chademo": {
+        "type": "Property",
+        "value": false
+      },
+    "prise_type_autre": {
+        "type": "Property",
+        "value": false
+      },
+    "gratuit": {
+        "type": "Property",
+        "value": false
+      },
+    "paiement_acte": {
+        "type": "Property",
+        "value": true
+      },
+    "paiement_cb": {
+        "type": "Property",
+        "value": true
+      },
+    "paiement_autre": {
+        "type": "Property",
+        "value": true
+      },
+    "tarification": {
+        "type": "Property",
+        "value": "0.40€ / kwh"
+      },
+    "condition_acces": {
+        "type": "Property",
+        "value": "Accès libre"
+      },
+    "reservation": {
+        "type": "Property",
+        "value": true
+      },
+    "horaires": {
+        "type": "Property",
+        "value": "Mo-Fr 08:00-12:00,Mo-Fr 14:00-18:00,Th 08:00-18:00"
+      },
+    "accessibilite_pmr": {
+        "type": "Property",
+        "value": "Accessible mais non réservé PMR"
+      },
+    "restriction_gabarit": {
+        "type": "Property",
+        "value": "Hauteur maximale 2m"
+      },
+    "station_deux_roues": {
+        "type": "Property",
+        "value": false
+      },
+    "raccordement": {
+        "type": "Property",
+        "value": "Direct"
+      },
+    "num_pdl": {
+        "type": "Property",
+        "value": "12345678912345"
+      },
+    "date_mise_en_service": {
+        "type": "Property",
+        "value": "2020-01-14"
+      },
+    "observations": {
+        "type": "Property",
+        "value": ""
+      },
+    "date_maj": {
+        "type": "Property",
+        "value": "2021-04-05"
+      },
+  "@context": [
+    "https://raw.githubusercontent.com/france-data-reseau/fdr-data-models/master/sdirve/jsonld-contexts/station-compound.jsonld"
+  ]
+}

@@ -1,0 +1,11 @@
+{
+	"@context": {
+		"Equipement": "https://ontology.francedatareseau.fr/apcom#Equipement",
+		"IdEquipement": "https://ontology.francedatareseau.fr/apcom/equipement/IdEquipement",
+		"RefSupportAerien": "https://ontology.francedatareseau.fr/apcom/equipement/RefSupportAerien",
+		"Proprietaire": "https://ontology.francedatareseau.fr/apcom/equipement/Proprietaire",
+		"Gestionnaire": "https://ontology.francedatareseau.fr/apcom/equipement/Gestionnaire",
+		"Nature": "https://ontology.francedatareseau.fr/apcom/equipement/Nature",
+		"NatureTraverse": "https://ontology.francedatareseau.fr/apcom/equipement/NatureTraverse"
+	}
+}

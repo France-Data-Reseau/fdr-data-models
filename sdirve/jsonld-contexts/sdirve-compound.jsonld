@@ -1,0 +1,6 @@
+{
+    "@context": [
+        "https://raw.githubusercontent.com/france-data-reseau/fdr-data-models/master/sdirve/jsonld-contexts/station-compound.jsonld",
+        "https://raw.githubusercontent.com/france-data-reseau/fdr-data-models/master/sdirve/jsonld-contexts/indicateur-compound.jsonld"
+    ]
+}

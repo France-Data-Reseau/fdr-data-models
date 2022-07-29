@@ -1,0 +1,12 @@
+{
+	"@context": {
+		"Indicateur": "https://ontology.francedatareseau.fr/sdirve#Indicateur",
+		"id_station": "https://ontology.francedatareseau.fr/sdirve/indicateur/id_station",
+		"measuredOnStation": "https://ontology.francedatareseau.fr/sdirve/indicateur/measuredOnStation",
+		"date": "https://ontology.francedatareseau.fr/sdirve/indicateur/date",
+		"duree_validite": "https://ontology.francedatareseau.fr/sdirve/indicateur/duree_validite",
+		"plage_horaire": "https://ontology.francedatareseau.fr/sdirve/indicateur/plage_horaire",
+		"indicateur": "https://ontology.francedatareseau.fr/sdirve/indicateur/indicateur",
+		"valeur": "https://ontology.francedatareseau.fr/sdirve/indicateur/valeur"
+	}
+}

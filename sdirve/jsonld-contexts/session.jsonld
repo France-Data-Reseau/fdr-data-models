@@ -1,0 +1,14 @@
+{
+	"@context": {
+		"Session": "https://ontology.francedatareseau.fr/sdirve#Session",
+		"id_station": "https://ontology.francedatareseau.fr/sdirve/session/id_station",
+		"deliveredOnStation": "https://ontology.francedatareseau.fr/sdirve/session/deliveredOnStation",
+		"date_debut": "https://ontology.francedatareseau.fr/sdirve/session/date_debut",
+		"date_fin": "https://ontology.francedatareseau.fr/sdirve/session/date_fin",
+		"duree_livraison": "https://ontology.francedatareseau.fr/sdirve/session/duree_livraison",
+		"puissance_max": "https://ontology.francedatareseau.fr/sdirve/session/puissance_max",
+		"consommation": "https://ontology.francedatareseau.fr/sdirve/session/consommation",
+		"nature_client": "https://ontology.francedatareseau.fr/sdirve/session/nature_client",
+		"operateur_mobilite": "https://ontology.francedatareseau.fr/sdirve/session/operateur_mobilite"
+	}
+}

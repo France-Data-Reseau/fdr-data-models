@@ -1,0 +1,11 @@
+{
+	"@context": {
+		"Occupation": "https://ontology.francedatareseau.fr/apcom#Occupation",
+		"IdOccupation": "https://ontology.francedatareseau.fr/apcom/occupation/IdOccupation",
+		"RefEquipement": "https://ontology.francedatareseau.fr/apcom/occupation/RefEquipement",
+		"residesOnEquipement": "https://ontology.francedatareseau.fr/apcom/occupation/residesOnEquipement",
+		"Gestionnaire": "https://ontology.francedatareseau.fr/apcom/occupation/Gestionnaire",
+		"Technologie": "https://ontology.francedatareseau.fr/apcom/occupation/Technologie",
+		"Reseau": "https://ontology.francedatareseau.fr/apcom/occupation/Reseau"
+	}
+}

@@ -1,0 +1,25 @@
+{
+	"@context": {
+		"PointLumineux": "https://ontology.francedatareseau.fr/eclairage_public#PointLumineux",
+		"insee": "https://ontology.francedatareseau.fr/eclairage_public/insee",
+		"commune": "https://ontology.francedatareseau.fr/eclairage_public/commune",
+		"siren": "https://ontology.francedatareseau.fr/eclairage_public/siren",
+		"reference": "https://ontology.francedatareseau.fr/eclairage_public/reference",
+		"x": "https://ontology.francedatareseau.fr/eclairage_public/x",
+		"y": "https://ontology.francedatareseau.fr/eclairage_public/y",
+		"latitude": "https://ontology.francedatareseau.fr/eclairage_public/latitude",
+		"longitude": "https://ontology.francedatareseau.fr/eclairage_public/longitude",
+		"puissance": "https://ontology.francedatareseau.fr/eclairage_public/puissance",
+		"flux": "https://ontology.francedatareseau.fr/eclairage_public/flux",
+		"type_luminaire": "https://ontology.francedatareseau.fr/eclairage_public/type_luminaire",
+		"type_source": "https://ontology.francedatareseau.fr/eclairage_public/type_source",
+		"ulr": "https://ontology.francedatareseau.fr/eclairage_public/ulr",
+		"temperature_couleur": "https://ontology.francedatareseau.fr/eclairage_public/temperature_couleur",
+		"hauteur": "https://ontology.francedatareseau.fr/eclairage_public/hauteur",
+		"profil_nocturne": "https://ontology.francedatareseau.fr/eclairage_public/profil_nocturne",
+		"plages_variation": "https://ontology.francedatareseau.fr/eclairage_public/plages_variation",
+		"eclairage_adaptatif": "https://ontology.francedatareseau.fr/eclairage_public/eclairage_adaptatif",
+		"tag": "https://ontology.francedatareseau.fr/eclairage_public/tag",
+		"commentaire": "https://ontology.francedatareseau.fr/eclairage_public/commentaire"
+	}
+}
