@@ -4,6 +4,19 @@
       "PointLumineux"
     ],
 
+    "locatedInCommune": {
+        "type": "Relationship",
+        "object": "urn:ngsi-ld:Commune:cog_ods_000000001_85001",
+        "com_code": {
+            "type": "Property",
+            "value": "85001"
+         },
+         "com_nom" : {
+             "type": "Property",
+             "value": "AIGUILLON LA PRESQU'ILE"
+         }
+      },
+
     "insee": {
         "type": "Property",
         "value": "85001"
