@@ -1,116 +1,110 @@
 {
-  "id": "urn:ngsi-ld:EclairagePublic:PointLumineux:point_lumineux_085001-001-001",
-    "type": [
-      "PointLumineux"
-    ],
-
-    "locatedInCommune": {
-        "type": "Relationship",
-        "object": "urn:ngsi-ld:Commune:cog_ods_000000001_85001",
-        "com_code": {
-            "type": "Property",
-            "value": "85001"
-         },
-         "com_nom" : {
-             "type": "Property",
-             "value": "AIGUILLON LA PRESQU'ILE"
-         }
-      },
-
-    "insee": {
-        "type": "Property",
-        "value": "85001"
-      },
-    "locatedInCommune": {
-        "type": "Relationship",
-        "object": "urn:ngsi-ld:fdr:Commune:ods_000000001_85001"
-      },
-    "commune": {
-        "type": "Property",
-        "value": "AIGUILLON LA PRESQU'ILE"
-      },
-    "siren": {
-        "type": "Property",
-        "value": "200042489"
-      },
-    "reference": {
-        "type": "Property",
-        "value": "085001-001-001"
-      },
-    "x": {
-        "type": "Property",
-        "value": 370390.327663002
-      },
-    "y": {
-        "type": "Property",
-        "value": 6589548.299773091
-      },
-    "latitude": {
-        "type": "Property",
-        "value": 46.325310
-      },
-    "longitude": {
-        "type": "Property",
-        "value": -1.286342
-      },
-    "location": {
-        "type": "GeoProperty",
-        "value": {
-          "type": "Point",
-          "coordinates": [
-            -1.286342,
-            46.325310
-          ]
-        }
-      },
-    "puissance": {
-        "type": "Property",
-        "value": 100
-      },
-    "flux": {
-        "type": "Property",
-        "value": 10700
-      },
-    "type_luminaire": {
-        "type": "Property",
-        "value": "Luminaire sur poteau béton"
-      },
-    "type_source": {
-        "type": "Property",
-        "value": "SHP"
-      },
-    "ulr": {
-        "type": "Property",
-        "value": 4
-      },
-    "temperature_couleur": {
-        "type": "Property",
-        "value": 2200
-      },
-    "hauteur": {
-        "type": "Property",
-        "value": 8
-      },
-    "profil_nocturne": {
-        "type": "Property",
-        "value": "0103-3110/0CS/0LS*0111-2802/0CS/0LS"
-      },
-    "plages_variation": {
-        "type": "Property",
-        "value": "0103-3110/X///23:30HL/6:45HL*0111-2802/X///22:30HL/6:45HL"
-      },
-    "eclairage_adaptatif": {
-        "type": "Property",
-        "value": ""
-      },
-    "tag": {
-        "type": "Property",
-        "value": ""
-      },
-    "commentaire": {
-        "type": "Property",
-        "value": ""
-      },
+  "id": "urn:ngsi-ld:EclairagePublic:PointLumineux:63001:AA101",
+  "type": [
+    "PointLumineux"
+  ],
+  "est_dans_commune": {
+    "type": "Relationship",
+    "object": "urn:ngsi-ld:Commune:cog_ods_000000001_63001",
+    "com_code": {
+      "type": "Property",
+      "value": "63001"
+    },
+    "com_nom": {
+      "type": "Property",
+      "value": "AIGUEPERSE"
+    }
+  },
+  "insee": {
+    "type": "Property",
+    "value": "63001"
+  },
+  "commune": {
+    "type": "Property",
+    "value": "AIGUEPERSE"
+  },
+  "siren": {
+    "type": "Property",
+    "value": "256300146"
+  },
+  "reference": {
+    "type": "Property",
+    "value": "AA101"
+  },
+  "x": {
+    "type": "Property",
+    "value": 370390.327663002
+  },
+  "y": {
+    "type": "Property",
+    "value": 6589548.299773091
+  },
+  "latitude": {
+    "type": "Property",
+    "value": 46.325310
+  },
+  "longitude": {
+    "type": "Property",
+    "value": -1.286342
+  },
+  "location": {
+    "type": "GeoProperty",
+    "value": {
+      "type": "Point",
+      "coordinates": [
+        -1.286342,
+        46.325310
+      ]
+    }
+  },
+  "puissance": {
+    "type": "Property",
+    "value": 100
+  },
+  "flux": {
+    "type": "Property",
+    "value": 10700
+  },
+  "type_luminaire": {
+    "type": "Property",
+    "value": "Luminaire sur poteau béton"
+  },
+  "type_source": {
+    "type": "Property",
+    "value": "SHP"
+  },
+  "ulr": {
+    "type": "Property",
+    "value": 4
+  },
+  "temperature_couleur": {
+    "type": "Property",
+    "value": 2200
+  },
+  "hauteur": {
+    "type": "Property",
+    "value": 8
+  },
+  "profil_nocturne": {
+    "type": "Property",
+    "value": "0103-3110/0CS/0LS*0111-2802/0CS/0LS"
+  },
+  "plages_variation": {
+    "type": "Property",
+    "value": "0103-3110/X///23:30HL/6:45HL*0111-2802/X///22:30HL/6:45HL"
+  },
+  "eclairage_adaptatif": {
+    "type": "Property",
+    "value": ""
+  },
+  "tag": {
+    "type": "Property",
+    "value": ""
+  },
+  "commentaire": {
+    "type": "Property",
+    "value": ""
+  },
   "@context": [
     "https://raw.githubusercontent.com/france-data-reseau/fdr-data-models/master/eclairage_public/jsonld-contexts/point_lumineux-compound.jsonld"
   ]
