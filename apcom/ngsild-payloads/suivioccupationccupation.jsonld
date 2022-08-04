@@ -1,7 +1,7 @@
 {
-  "id": "urn:ngsi-ld:AppuisCommuns:SuiviOccupation:apcom_000000001_apcomsuocex3",
+  "id": "urn:ngsi-ld:AppuisCommuns:SuiviOccupation:apcom_000000001_apcomsuocex1",
     "type": [
-      "SuiviOccupation"
+      "SuiviOccupation", "SuiviOccupationOccupation"
     ],
 
     "data_owner_id": {
@@ -22,24 +22,24 @@
       },
     "src_id": {
         "type": "Property",
-        "value": "apcom_000000001_apcomsuocex3"
+        "value": "apcom_000000001_apcomsuocex1"
       },
     "uuid": {
         "type": "Property",
         "value": "9e90dfdd-f3b2-5c84-a378-3a0fa12d0100"
       },
 
-    "RefEquipement": {
+    "RefOccupation": {
         "type": "Property",
-        "value": "9e90dfdd-f3b2-5c84-a378-3a0fa12d0100"
+        "value": "9e90dfdd-f3b2-5c84-a378-3a0fa12d0110"
       },
-    "aboutEquipement": {
+    "estPourOccupation": {
         "type": "Relationship",
-        "object": "urn:ngsi-ld:AppuisCommuns:Equipement:birdz_000000001_apcomocex1"
+        "object": "urn:ngsi-ld:AppuisCommuns:Occupation:apcom_000000001_apcomocex1",
       },
     "DebutOccupation": {
         "type": "Property",
-        "value": "2019-06-13"
+        "value": "2018-06-13"
       },
     "Convention": {
         "type": "Property",

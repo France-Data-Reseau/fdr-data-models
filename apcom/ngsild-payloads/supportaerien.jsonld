@@ -33,6 +33,19 @@
         "value": "05841472-1d3c-5126-bd6f-c02cef2e8fc0"
       },
 
+    "estDansCommune": {
+        "type": "Relationship",
+        "object": "urn:ngsi-ld:Commune:cog_ods_000000001_37340",
+        "com_code": {
+            "type": "Property",
+            "value": "37340"
+         },
+         "com_nom" : {
+             "type": "Property",
+             "value": "Cléré-les-Pins"
+         }
+      },
+
     "IdSupportAerien": {
         "type": "Property",
         "value": "05841472-1d3c-5126-bd6f-c02cef2e8fc0"
@@ -111,6 +124,10 @@
         "type": "Property",
         "value": true
       },
+    "BoisCreosote": {
+      "type": "Property",
+      "value": true
+    },
     "BandeauVert": {
         "type": "Property",
         "value": true

@@ -1,6 +1,8 @@
 {
 	"@context": {
 		"SuiviOccupation": "https://ontology.francedatareseau.fr/apcom#SuiviOccupation",
+		"SuiviOccupationOccupation": "https://ontology.francedatareseau.fr/apcom#SuiviOccupationOccupation",
+		"SuiviOccupationEquipement": "https://ontology.francedatareseau.fr/apcom#SuiviOccupationEquipement",
 		"RefOccupation": "https://ontology.francedatareseau.fr/apcom/suivioccupation/RefOccupation",
 		"aboutOccupation": "https://ontology.francedatareseau.fr/apcom/suivioccupation/aboutOccupation",
 		"RefEquipement": "https://ontology.francedatareseau.fr/apcom/suivioccupation/RefEquipement",

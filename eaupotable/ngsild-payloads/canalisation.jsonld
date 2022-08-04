@@ -33,6 +33,27 @@
         "value": "05841472-1d3c-5126-bd6f-c02cef2e8fc1"
       },
 
+    "com_code": {
+        "type": "Property",
+        "value": "34120",
+        "com_nom" : {
+            "type": "Property",
+            "value": "Jacou"
+        }
+      },
+    "estDansCommune": {
+        "type": "Relationship",
+        "object": "urn:ngsi-ld:Commune:cog_ods_000000001_34120",
+        "com_code": {
+            "type": "Property",
+            "value": "34120"
+         },
+         "com_nom" : {
+             "type": "Property",
+             "value": "Jacou"
+         }
+      },
+
     "idCanalisation": {
         "type": "Property",
         "value": "ID_2725"
@@ -43,7 +64,11 @@
       },
     "materiau": {
         "type": "Property",
-        "value": "18"
+        "value": "18",
+        "label" : {
+            "type": "Property",
+            "value": "PEHD lisse"
+        }
       },
     "diametreNominal": {
         "type": "Property",
@@ -71,7 +96,11 @@
       },
     "modeCirculation": {
         "type": "Property",
-        "value": "Gravitaire"
+        "value": "01",
+        "label" : {
+            "type": "Property",
+            "value": "Gravitaire"
+        }
       },
     "anPoseInf": {
         "type": "Property",
@@ -87,19 +116,35 @@
       },
     "qualiteGeolocalisation": {
         "type": "Property",
-        "value": "Classe A"
+        "value": "01",
+        "label" : {
+            "type": "Property",
+            "value": "Classe A"
+        }
       },
     "sourceMateriau": {
         "type": "Property",
-        "value": "Mémoire"
+        "value": "04",
+        "label" : {
+            "type": "Property",
+            "value": "Mémoire"
+        }
       },
     "sourceDiametreNominal": {
         "type": "Property",
-        "value": "Récolement"
+        "value": "02",
+         "label" : {
+             "type": "Property",
+             "value": "Récolement"
+         }
       },
     "sourceDatePose": {
         "type": "Property",
-        "value": "Récolement"
+        "value": "02",
+        "label" : {
+            "type": "Property",
+            "value": "Récolement"
+        }
       },
     "dateAbandon": {
         "type": "Property",
@@ -107,11 +152,11 @@
       },
     "sourceDateAbandon": {
         "type": "Property",
-        "value": "2",
+        "value": "02",
         "label" : {
             "type": "Property",
             "value": "Récolement"
-        },
+        }
       },
   "@context": [
     "https://raw.githubusercontent.com/france-data-reseau/fdr-data-models/master/eaupotable/jsonld-contexts/canalisation-compound.jsonld"

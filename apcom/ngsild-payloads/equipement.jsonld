@@ -37,7 +37,7 @@
         "type": "Property",
         "value": "05841472-1d3c-5126-bd6f-c02cef2e8fc0"
       },
-    "residesOnSupportAerien": {
+    "estSurSupportAerien": {
         "type": "Relationship",
         "object": "urn:ngsi-ld:AppuisCommuns:SupportAerien:osm_775666100_node/8736382817"
       },

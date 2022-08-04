@@ -33,6 +33,19 @@
         "value": "05841472-1d3c-5126-bd6f-c02cef2e8ff1"
       },
 
+    "estDansCommune": {
+        "type": "Relationship",
+        "object": "urn:ngsi-ld:Commune:cog_ods_000000001_75012",
+        "com_code": {
+            "type": "Property",
+            "value": "75012"
+         },
+         "com_nom" : {
+             "type": "Property",
+             "value": "Paris 12"
+         }
+      },
+
     "nom_amenageur": {
         "type": "Property",
         "value": "Société X"
@@ -79,19 +92,19 @@
       },
     "adresse_station": {
         "type": "Property",
-        "value": "1 avenue de la Paix 75001 Paris"
+        "value": "7 boulevard de Picpus 75012 Paris"
       },
     "code_insee_commune": {
         "type": "Property",
-        "value": "75001"
+        "value": "75012"
       },
     "location": {
         "type": "GeoProperty",
         "value": {
           "type": "Point",
           "coordinates": [
-            7.48710500,
-            48.345345
+            2.400428, 48.840687,
+            48.847083
           ]
         }
       },

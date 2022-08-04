@@ -37,7 +37,7 @@
         "type": "Property",
         "value": "FR*S74*P74137"
       },
-    "measuredOnStation": {
+    "luSurStation": {
         "type": "Relationship",
         "object": "urn:ngsi-ld:sdirve:Station:sdirve_inventaire_000000001_FR*S74*P74137"
       },

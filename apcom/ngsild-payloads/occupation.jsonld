@@ -37,9 +37,9 @@
         "type": "Property",
         "value": "9e90dfdd-f3b2-5c84-a378-3a0fa12d010"
       },
-    "residesOnEquipement": {
+    "estSurEquipement": {
         "type": "Relationship",
-        "object": "urn:ngsi-ld:AppuisCommuns:SupportAerien:osm_775666100_node/8736382817"
+        "object": "urn:ngsi-ld:AppuisCommuns:Equipement:birdz_000000001_apcomocex1"
       },
     "Gestionnaire": {
         "type": "Property",

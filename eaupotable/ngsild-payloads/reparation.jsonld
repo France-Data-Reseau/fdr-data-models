@@ -51,7 +51,7 @@
         "type": "Property",
         "value": "ID_2725"
       },
-    "happenedOnCanalisation": {
+    "estSurCanalisation": {
         "type": "Relationship",
         "object": "urn:ngsi-ld:Canalisation:canalisations_abandonnees_811728419_ID_2725"
       },
@@ -61,11 +61,19 @@
       },
     "qualiteGeolocalisation": {
         "type": "Property",
-        "value": "2"
+        "value": "02",
+        "label" : {
+            "type": "Property",
+            "value": "CLASSE B"
+        }
       },
     "materiau": {
         "type": "Property",
-        "value": "18"
+        "value": "18",
+        "label" : {
+            "type": "Property",
+            "value": "PEHD lisse"
+        }
       },
     "diametreNominal": {
         "type": "Property",
@@ -77,15 +85,27 @@
       },
     "emplacement": {
         "type": "Property",
-        "value": "2"
+        "value": "2",
+        "label" : {
+            "type": "Property",
+            "value": "Canalisation"
+        }
       },
-    "type": {
+    "typeReparation": {
         "type": "Property",
-        "value": "2"
+        "value": "2",
+        "label" : {
+            "type": "Property",
+            "value": "Casse nette"
+        }
       },
     "causeProbable": {
         "type": "Property",
-        "value": "8"
+        "value": "8",
+        "label" : {
+            "type": "Property",
+            "value": "Tiers"
+        }
       },
   "@context": [
     "https://raw.githubusercontent.com/france-data-reseau/fdr-data-models/master/eaupotable/jsonld-contexts/reparation-compound.jsonld"
