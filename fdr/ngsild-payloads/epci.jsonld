@@ -1,0 +1,17 @@
+{
+    "id": "urn:ngsi-ld:fdr:Epci:cog_ods_000000001_247700057",
+    "type": "Commune",
+    "@context": "https://raw.githubusercontent.com/france-data-reseau/fdr-data-models/master/fdr/jsonld-contexts/commune-compound.jsonld",
+    "year": {
+        "type": "Property",
+        "value": "2021"
+    },
+    "epci_code": {
+        "type": "Property",
+        "value": "247700057"
+    },
+    "epci_nom": {
+        "type": "Property",
+        "value": "CA Melun Val de Seine"
+    },
+}

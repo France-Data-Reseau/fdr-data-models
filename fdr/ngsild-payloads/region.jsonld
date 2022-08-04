@@ -1,0 +1,17 @@
+{
+    "id": "urn:ngsi-ld:fdr:Region:cog_ods_000000001_11",
+    "type": "Region",
+    "@context": "https://raw.githubusercontent.com/france-data-reseau/fdr-data-models/master/fdr/jsonld-contexts/commune-compound.jsonld",
+    "year": {
+        "type": "Property",
+        "value": "2021"
+    },
+    "reg_code": {
+        "type": "Property",
+        "value": "11"
+    },
+    "reg_nom": {
+        "type": "Property",
+        "value": "Île-de-France"
+    }
+}

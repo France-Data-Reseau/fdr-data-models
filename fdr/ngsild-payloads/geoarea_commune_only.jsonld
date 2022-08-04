@@ -1,0 +1,41 @@
+{
+    "id": "urn:ngsi-ld:fdr:GeoArea:cog_ods_000000001_City_FR_77039",
+    "type": "GeoArea",
+    "@context": "https://raw.githubusercontent.com/france-data-reseau/fdr-data-models/master/fdr/jsonld-contexts/geoarea.jsonld",
+    "isoCode": {
+        "type": "Property",
+        "value": ""
+    },
+    "nationalCode": {
+      "type": "Property",
+      "value": "77039"
+    },
+    "name": {
+      "type": "Property",
+      "value": "Boissise-la-Bertrand"
+    },
+    "lang": {
+        "type": "Property",
+        "value": "FR"
+    },
+    "country": {
+        "type": "Property",
+        "value": "FR"
+    },
+    "ancestors" : {
+        "type": "Property",
+        "value": ["Country_FR","City_FR_77039", "Nuts2_FR_11", "Nuts3_FR_77", "CityGroup_FR_247700057"],
+        "dc_ids": {
+            "type": "Property",
+            "value": ["FR", "FR_11_77_77039", "FR_11", "FR_11_77", "FR_247700057"]
+        }
+    },
+    "detailed_name": {
+        "type": "Property",
+        "value": "Boissise-la-Bertrand (77039), France"
+    },
+    "postal_code": {
+        "type": "Property",
+        "value": "77350"
+    }
+}

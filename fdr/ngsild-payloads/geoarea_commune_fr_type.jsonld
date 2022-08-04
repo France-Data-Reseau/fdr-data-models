@@ -1,0 +1,62 @@
+{
+    "id": "urn:ngsi-ld:fdr:Commune:cog_ods_000000001_77039",
+    "type": ["GeoArea", "CityFR",  "Commune"],
+    "@context": "https://raw.githubusercontent.com/france-data-reseau/fdr-data-models/master/fdr/jsonld-contexts/geoarea_test.jsonld",
+    "isoCode": {
+        "type": "Property",
+        "value": ""
+    },
+    "code": {
+      "type": "Property",
+      "value": "77039"
+    },
+    "name": {
+      "type": "Property",
+      "value": "Boissise-la-Bertrand"
+    },
+    "lang": {
+        "type": "Property",
+        "value": "FR"
+    },
+    "country": {
+        "type": "Property",
+        "value": "FR"
+    },
+    "ancestors" : {
+        "type": "Property",
+        "value": ["CountryFR", "CityFR_77039", "NUTS1FR_11", "NUTS3FR_77", "CityGroupFR_247700057"],
+        "indicative_dc_ids": {
+            "type": "Property",
+            "value": ["FR", "FR_11_77_77039", "FR_11", "FR_11_77", "FR_247700057"]
+        }
+    },
+    "estDansAireGeographique": {
+        "type": "Relationship",
+        "object": ["urn:ngsi-ld:fdr:Pays:cog_ods_000000001_FR", "urn:ngsi-ld:fdr:Region:cog_ods_000000001_11", "urn:ngsi-ld:fdr:Departement:cog_ods_000000001_77", "urn:ngsi-ld:fdr:EPCI:cog_ods_000000001_247700057"]
+    },
+    "detailed_name": {
+        "type": "Property",
+        "value": "Boissise-la-Bertrand (77039), France"
+    },
+    "postal_code": {
+        "type": "Property",
+        "value": "77350"
+    },
+
+    "estDansPays": {
+        "type": "Relationship",
+        "object": ["urn:ngsi-ld:fdr:Pays:cog_ods_000000001_FR"]
+    },
+    "estDansRegion": {
+        "type": "Relationship",
+        "object": ["urn:ngsi-ld:fdr:Region:cog_ods_000000001_11"]
+    },
+    "estDansDepartement": {
+        "type": "Relationship",
+        "object": ["urn:ngsi-ld:fdr:Departement:cog_ods_000000001_77"]
+    },
+    "estDansEpci": {
+        "type": "Relationship",
+        "object": ["urn:ngsi-ld:fdr:EPCI:cog_ods_000000001_247700057"]
+    }
+}

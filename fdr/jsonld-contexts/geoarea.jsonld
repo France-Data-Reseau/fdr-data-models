@@ -1,0 +1,32 @@
+{
+    "@context": {
+        "GeoArea": "https://ontology.francedatareseau.fr/fdr#GeoArea",
+        "Country": "https://ontology.francedatareseau.fr/fdr#Country",
+        "GeoAreaLevel2": "https://ontology.francedatareseau.fr/fdr#GeoAreaLevel2",
+        "GeoAreaLevel3": "https://ontology.francedatareseau.fr/fdr#GeoAreaLevel3",
+        "CityGroup": "https://ontology.francedatareseau.fr/fdr#CityGroup",
+        "City": "https://ontology.francedatareseau.fr/fdr#City",
+
+        "GeoAreaFR": "https://ontology.francedatareseau.fr/fdr#GeoAreaFR",
+        "CountryFR": "https://ontology.francedatareseau.fr/fdr#CountryFR",
+        "GeoAreaLevel2FR": "https://ontology.francedatareseau.fr/fdr#GeoAreaLevel2FR",
+        "GeoAreaLevel3FR": "https://ontology.francedatareseau.fr/fdr#GeoAreaLevel3FR",
+        "CityGroupFR": "https://ontology.francedatareseau.fr/fdr#CityGroupFR",
+        "CityFR": "https://ontology.francedatareseau.fr/fdr#CityFR",
+
+        "isoCode": "https://ontology.francedatareseau.fr/fdr/GeoArea#isoCode",
+        "name": "https://ontology.francedatareseau.fr/fdr/GeoArea#name",
+        "country": "https://ontology.francedatareseau.fr/fdr/GeoArea#country",
+        "nationalCode": "https://ontology.francedatareseau.fr/fdr/GeoArea#statisticalCode",
+        "lang": "https://ontology.francedatareseau.fr/fdr/GeoArea#lang",
+        "postalCode": "https://ontology.francedatareseau.fr/fdr/GeoArea#postalCode",
+        "detailedName": "https://ontology.francedatareseau.fr/fdr/GeoArea#detailedName",
+        "ancestors": "https://ontology.francedatareseau.fr/fdr/GeoArea#ancestors",
+        "isInGeoArea": "https://ontology.francedatareseau.fr/fdr#isInGeoArea",
+
+        "isInCountry": "https://ontology.francedatareseau.fr/fdr#isInCountry",
+        "isInGeoAreaLevel2": "https://ontology.francedatareseau.fr/fdr#isInGeoAreaLevel2",
+        "isInGeoAreaLevel3": "https://ontology.francedatareseau.fr/fdr#isInGeoAreaLevel3",
+        "isInCityGroup": "https://ontology.francedatareseau.fr/fdr#isInCityGroup"
+    }
+}

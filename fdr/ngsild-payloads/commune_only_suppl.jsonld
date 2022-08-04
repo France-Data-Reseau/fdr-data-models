@@ -1,0 +1,420 @@
+{
+    "id": "urn:ngsi-ld:fdr:Commune:cog_ods_000000001_77039",
+    "type": "Commune",
+    "@context": "https://raw.githubusercontent.com/france-data-reseau/fdr-data-models/master/fdr/jsonld-contexts/commune-compound.jsonld",
+    "location": {
+        "type": "GeoProperty",
+        "value": {
+            "type": "Polygon",
+            "coordinates": [
+                [
+                    [
+                        2.56096,
+                        48.535566
+                    ],
+                    [
+                        2.564158,
+                        48.534977
+                    ],
+                    [
+                        2.572945,
+                        48.532404
+                    ],
+                    [
+                        2.578052,
+                        48.530146
+                    ],
+                    [
+                        2.580752,
+                        48.528568
+                    ],
+                    [
+                        2.582436,
+                        48.526934
+                    ],
+                    [
+                        2.585887,
+                        48.522826
+                    ],
+                    [
+                        2.588513,
+                        48.520559
+                    ],
+                    [
+                        2.590099,
+                        48.519193
+                    ],
+                    [
+                        2.593933,
+                        48.516741
+                    ],
+                    [
+                        2.599723,
+                        48.515913
+                    ],
+                    [
+                        2.600731,
+                        48.515905
+                    ],
+                    [
+                        2.600881,
+                        48.518718
+                    ],
+                    [
+                        2.601152,
+                        48.518738
+                    ],
+                    [
+                        2.601422,
+                        48.51969
+                    ],
+                    [
+                        2.601642,
+                        48.519928
+                    ],
+                    [
+                        2.601665,
+                        48.520741
+                    ],
+                    [
+                        2.601482,
+                        48.520913
+                    ],
+                    [
+                        2.600782,
+                        48.521063
+                    ],
+                    [
+                        2.601914,
+                        48.524055
+                    ],
+                    [
+                        2.60394,
+                        48.523774
+                    ],
+                    [
+                        2.605125,
+                        48.523728
+                    ],
+                    [
+                        2.606041,
+                        48.523502
+                    ],
+                    [
+                        2.606274,
+                        48.523545
+                    ],
+                    [
+                        2.608067,
+                        48.523326
+                    ],
+                    [
+                        2.60881,
+                        48.523321
+                    ],
+                    [
+                        2.609148,
+                        48.523686
+                    ],
+                    [
+                        2.609742,
+                        48.523811
+                    ],
+                    [
+                        2.610135,
+                        48.524017
+                    ],
+                    [
+                        2.611071,
+                        48.523981
+                    ],
+                    [
+                        2.612004,
+                        48.52418
+                    ],
+                    [
+                        2.61235,
+                        48.525614
+                    ],
+                    [
+                        2.612261,
+                        48.525731
+                    ],
+                    [
+                        2.612229,
+                        48.527681
+                    ],
+                    [
+                        2.611938,
+                        48.528284
+                    ],
+                    [
+                        2.611151,
+                        48.528558
+                    ],
+                    [
+                        2.609877,
+                        48.529902
+                    ],
+                    [
+                        2.608744,
+                        48.53079
+                    ],
+                    [
+                        2.618283,
+                        48.533812
+                    ],
+                    [
+                        2.614532,
+                        48.535465
+                    ],
+                    [
+                        2.614187,
+                        48.535494
+                    ],
+                    [
+                        2.612735,
+                        48.535947
+                    ],
+                    [
+                        2.611427,
+                        48.536682
+                    ],
+                    [
+                        2.610096,
+                        48.535164
+                    ],
+                    [
+                        2.608251,
+                        48.537307
+                    ],
+                    [
+                        2.606039,
+                        48.538757
+                    ],
+                    [
+                        2.605491,
+                        48.539322
+                    ],
+                    [
+                        2.605117,
+                        48.539952
+                    ],
+                    [
+                        2.604646,
+                        48.541254
+                    ],
+                    [
+                        2.603123,
+                        48.543488
+                    ],
+                    [
+                        2.60244,
+                        48.543867
+                    ],
+                    [
+                        2.600809,
+                        48.544388
+                    ],
+                    [
+                        2.600418,
+                        48.544367
+                    ],
+                    [
+                        2.600916,
+                        48.54513
+                    ],
+                    [
+                        2.596499,
+                        48.545267
+                    ],
+                    [
+                        2.588944,
+                        48.548021
+                    ],
+                    [
+                        2.582112,
+                        48.546839
+                    ],
+                    [
+                        2.562537,
+                        48.543275
+                    ],
+                    [
+                        2.563213,
+                        48.541822
+                    ],
+                    [
+                        2.562969,
+                        48.540202
+                    ],
+                    [
+                        2.562308,
+                        48.538569
+                    ],
+                    [
+                        2.562648,
+                        48.538468
+                    ],
+                    [
+                        2.56096,
+                        48.535566
+                    ]
+                ]
+            ]
+        }
+    },
+    "reg_code": {
+        "type": "Property",
+        "value": "11",
+        "reg_nom": {
+            "type": "Property",
+            "value": "le-de-France"
+        }
+    },
+    "dep_code": {
+        "type": "Property",
+        "value": "77",
+        "dep_nom": {
+            "type": "Property",
+            "value": "Seine-et-Marne"
+        }
+    },
+    "epci_code": {
+        "type": "Property",
+        "value": "247700057",
+        "epci_nom": {
+            "type": "Property",
+            "value": "CA Melun Val de Seine"
+        }
+    },
+    "com_code": {
+      "type": "Property",
+      "value": "77039"
+    },
+    "com_nom": {
+      "type": "Property",
+      "value": "Boissise-la-Bertrand"
+    },
+
+    "year": {
+        "type": "Property",
+        "value": "2021"
+    },
+    "arrdep_code": {
+      "type": "Property",
+      "value": "772",
+      "arrdep_name": {
+        "type": "Property",
+        "value": "Melun"
+      }
+    },
+    "ze2020_code": {
+      "type": "Property",
+      "value": "1108",
+      "ze2020_name": {
+        "type": "Property",
+        "value": "Melun"
+      }
+    },
+    "bv2012_code": {
+      "type": "Property",
+      "value": "75056",
+      "bv2012_name": {
+        "type": "Property",
+        "value": "Paris"
+      }
+    },
+    "ept_code": {
+        "type": "Property",
+        "value": "",
+        "ept_name": {
+            "type": "Property",
+            "value": ""
+        }
+    },
+    "com_current_code": {
+        "type": "Property",
+        "value": "77039"
+    },
+    "com_name_upper": {
+        "type": "Property",
+        "value": "BOISSISE-LA-BERTRAND"
+    },
+    "com_name_lower": {
+        "type": "Property",
+        "value": "boissise-la-bertrand"
+    },
+    "com_area_code": {
+        "type": "Property",
+        "value": "FXX"
+    },
+    "com_type": {
+        "type": "Property",
+        "value": "commune"
+    },
+    "ze2010_code": {
+        "type": "Property",
+        "value": "",
+        "ze2010_name": {
+            "type": "Property",
+            "value": ""
+        }
+    },
+    "com_cataeu2010_code": {
+        "type": "Property",
+        "value": "",
+        "com_cataeu2010_name": {
+            "type": "Property",
+            "value": ""
+        }
+    },
+    "com_uu2010_code": {
+        "type": "Property",
+        "value": ""
+    },
+    "com_uu2010_status": {
+        "type": "Property",
+        "value": ""
+    },
+    "com_au2010_code": {
+        "type": "Property",
+        "value": ""
+    },
+    "com_cateaav2020_code": {
+        "type": "Property",
+        "value": "20",
+        "com_cateaav2020_name": {
+            "type": "Property",
+            "value": "Commune de la couronne"
+        }
+    },
+    "com_uu2020_code": {
+        "type": "Property",
+        "value": "00851"
+    },
+    "com_uu2020_status": {
+        "type": "Property",
+        "value": "unite urbaine"
+    },
+    "com_aav2020_code": {
+        "type": "Property",
+        "value": "001"
+    },
+    "com_cv_code": {
+        "type": "Property",
+        "value": "7720"
+    },
+    "com_siren_code": {
+        "type": "Property",
+        "value": "217700392"
+    },
+    "com_in_ctu": {
+      "type": "Property",
+      "value": ""
+    },
+    "com_is_mountain_area": {
+      "type": "Property",
+      "value": ""
+    }
+}

@@ -1,0 +1,25 @@
+{
+    "@context": {
+        "AireGeographique": "https://ontology.francedatareseau.fr/fdr#GeoArea",
+        "Pays": "https://ontology.francedatareseau.fr/fdr#Country",
+        "Region": "https://ontology.francedatareseau.fr/fdr#GeoAreaLevel2",
+        "Departement": "https://ontology.francedatareseau.fr/fdr#GeoAreaLevel3",
+        "EPCI": "https://ontology.francedatareseau.fr/fdr#CityGroup",
+        "Commune": "https://ontology.francedatareseau.fr/fdr#City",
+
+        "isoCode": "https://ontology.francedatareseau.fr/fdr/GeoArea#isoCode",
+        "name": "https://ontology.francedatareseau.fr/fdr/GeoArea#name",
+        "country": "https://ontology.francedatareseau.fr/fdr/GeoArea#country",
+        "code": "https://ontology.francedatareseau.fr/fdr/GeoArea#statisticalCode",
+        "lang": "https://ontology.francedatareseau.fr/fdr/GeoArea#lang",
+        "postalCode": "https://ontology.francedatareseau.fr/fdr/GeoArea#postalCode",
+        "detailedName": "https://ontology.francedatareseau.fr/fdr/GeoArea#detailedName",
+        "ancestors": "https://ontology.francedatareseau.fr/fdr/GeoArea#ancestors",
+        "estDansAireGeographique": "https://ontology.francedatareseau.fr/fdr#isInGeoArea",
+
+        "estDansPays": "https://ontology.francedatareseau.fr/fdr#isInCountry",
+        "estDansRegion": "https://ontology.francedatareseau.fr/fdr#isInGeoAreaLevel2",
+        "estDansDepartement": "https://ontology.francedatareseau.fr/fdr#isInGeoAreaLevel3",
+        "estDansEpci": "https://ontology.francedatareseau.fr/fdr#isInCityGroup"
+    }
+}
