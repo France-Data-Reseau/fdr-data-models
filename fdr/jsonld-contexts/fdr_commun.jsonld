@@ -1,0 +1,6 @@
+{
+    "@context": {
+        "gestionnaire": "https://ontology.francedatareseau.fr/fdr#gestionnaire",
+        "siren": "https://ontology.francedatareseau.fr/fdr#gestionnaire"
+    }
+}
