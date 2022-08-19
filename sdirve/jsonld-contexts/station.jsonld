@@ -1,6 +1,7 @@
 {
 	"@context": {
 		"Station": "https://ontology.francedatareseau.fr/sdirve#Station",
+		"PointDeCharge": "https://ontology.francedatareseau.fr/sdirve#PointDeCharge",
 		"nom_amenageur": "https://ontology.francedatareseau.fr/sdirve/station/nom_amenageur",
 		"siren_amenageur": "https://ontology.francedatareseau.fr/sdirve/station/siren_amenageur",
 		"contact_amenageur": "https://ontology.francedatareseau.fr/sdirve/station/contact_amenageur",
@@ -39,6 +40,7 @@
 		"num_pdl": "https://ontology.francedatareseau.fr/sdirve/station/num_pdl",
 		"date_mise_en_service": "https://ontology.francedatareseau.fr/sdirve/station/date_mise_en_service",
 		"observations": "https://ontology.francedatareseau.fr/sdirve/station/observations",
-		"date_maj": "https://ontology.francedatareseau.fr/sdirve/station/date_maj"
+		"date_maj": "https://ontology.francedatareseau.fr/sdirve/station/date_maj",
+		"est_dans_station": "https://ontology.francedatareseau.fr/sdirve/station/est_dans_station"
 	}
 }
