@@ -39,6 +39,7 @@
         "com_cv_code": "https://ontology.francedatareseau.fr/fdr/commune#com_cv_code",
         "com_in_ctu": "https://ontology.francedatareseau.fr/fdr/commune#com_in_ctu",
         "com_siren_code": "https://ontology.francedatareseau.fr/fdr/commune#com_siren_code",
-        "com_is_mountain_area": "https://ontology.francedatareseau.fr/fdr/commune#com_is_mountain_area"
+        "com_is_mountain_area": "https://ontology.francedatareseau.fr/fdr/commune#com_is_mountain_area",
+        "est_dans_commune": "https://ontology.francedatareseau.fr/fdr/commune#est_dans_commune"
     }
 }

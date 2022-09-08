@@ -20,6 +20,8 @@
 		"plages_variation": "https://ontology.francedatareseau.fr/eclairage_public/pointlumineux/plages_variation",
 		"eclairage_adaptatif": "https://ontology.francedatareseau.fr/eclairage_public/pointlumineux/eclairage_adaptatif",
 		"tag": "https://ontology.francedatareseau.fr/eclairage_public/pointlumineux/tag",
-		"commentaire": "https://ontology.francedatareseau.fr/eclairage_public/pointlumineux/commentaire"
+		"commentaire": "https://ontology.francedatareseau.fr/eclairage_public/pointlumineux/commentaire",
+		"temps_de_fonctionnement_moyen": "https://ontology.francedatareseau.fr/eclairage_public/pointlumineux/temps_de_fonctionnement_moyen",
+		"energie_moyenne_consomee_par_point_lumineux": "https://ontology.francedatareseau.fr/eclairage_public/pointlumineux/energie_moyenne_consomee_par_point_lumineux"
 	}
 }
