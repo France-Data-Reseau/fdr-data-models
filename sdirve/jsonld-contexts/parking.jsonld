@@ -1,0 +1,32 @@
+{
+	"@context": {
+		"Parking": "https://ontology.francedatareseau.fr/sdirve#Parking",
+		"id_metier": "https://ontology.francedatareseau.fr/sdirve/parking/id_metier",
+		"nom": "https://ontology.francedatareseau.fr/sdirve/parking/nom",
+		"adresse": "https://ontology.francedatareseau.fr/sdirve/parking/adresse",
+		"url": "https://ontology.francedatareseau.fr/sdirve/parking/url",
+		"type_usagers": "https://ontology.francedatareseau.fr/sdirve/parking/type_usagers",
+		"gratuit": "https://ontology.francedatareseau.fr/sdirve/parking/gratuit",
+		"nb_places": "https://ontology.francedatareseau.fr/sdirve/parking/nb_places",
+		"nb_pr": "https://ontology.francedatareseau.fr/sdirve/parking/nb_pr",
+		"nb_pmr": "https://ontology.francedatareseau.fr/sdirve/parking/nb_pmr",
+		"nb_voitures_electriques": "https://ontology.francedatareseau.fr/sdirve/parking/nb_voitures_electriques",
+		"nb_velo": "https://ontology.francedatareseau.fr/sdirve/parking/nb_velo",
+		"nb_2r_el": "https://ontology.francedatareseau.fr/sdirve/parking/nb_2r_el",
+		"nb_autopartage": "https://ontology.francedatareseau.fr/sdirve/parking/nb_autopartage",
+		"nb_2_rm": "https://ontology.francedatareseau.fr/sdirve/parking/nb_2_rm",
+		"nb_covoit": "https://ontology.francedatareseau.fr/sdirve/parking/nb_covoit",
+		"hauteur_max": "https://ontology.francedatareseau.fr/sdirve/parking/hauteur_max",
+		"num_siret": "https://ontology.francedatareseau.fr/sdirve/parking/num_siret",
+		"tarif_pmr": "https://ontology.francedatareseau.fr/sdirve/parking/tarif_pmr",
+		"tarif_1h": "https://ontology.francedatareseau.fr/sdirve/parking/tarif_1h",
+		"tarif_2h": "https://ontology.francedatareseau.fr/sdirve/parking/tarif_2h",
+		"tarif_3h": "https://ontology.francedatareseau.fr/sdirve/parking/tarif_3h",
+		"tarif_4h": "https://ontology.francedatareseau.fr/sdirve/parking/tarif_4h",
+		"tarif_24h": "https://ontology.francedatareseau.fr/sdirve/parking/tarif_24h",
+		"abo_resident": "https://ontology.francedatareseau.fr/sdirve/parking/abo_resident",
+		"abo_non_resident": "https://ontology.francedatareseau.fr/sdirve/parking/abo_non_resident",
+		"type_ouvrage": "https://ontology.francedatareseau.fr/sdirve/parking/type_ouvrage",
+		"info": "https://ontology.francedatareseau.fr/sdirve/parking/info"
+	}
+}

@@ -1,0 +1,31 @@
+{
+    "id" : "urn:ngsi-ld:SDIRVE:Parking:31e46f38-500e-452c-9934-19bc12bc12fb",
+    "type" : [ "Parking" ],
+    "location" : {
+      "value" : {
+        "coordinates" : [ [ [ 3.1387998, 45.7519768003792 ], [ 3.138869, 45.75153030037927 ], [ 3.1389673, 45.75154500037928 ], [ 3.1389297, 45.75180280037924 ], [ 3.1390674, 45.751822800379216 ], [ 3.1390072, 45.75200320037922 ], [ 3.1389033, 45.7519837003792 ], [ 3.1387998, 45.7519768003792 ] ] ],
+        "type" : "Polygon"
+      },
+      "type" : "GeoProperty"
+    },
+    "est_dans_commune" : {
+      "object" : "urn:ngsi-ld:Commune:63014",
+      "com_code" : {
+        "value" : "63014",
+        "type" : "Property"
+      },
+      "type" : "Relationship"
+    },
+    "type_usagers" : {
+      "value" : "tous",
+      "type" : "Property"
+    },
+    "gratuit" : {
+      "value" : "true",
+      "type" : "Property"
+    },
+    "info" : {
+      "value" : "way/636524891",
+      "type" : "Property"
+    }
+}
