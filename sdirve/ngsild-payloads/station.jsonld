@@ -1,5 +1,5 @@
 {
-  "id": "urn:ngsi-ld:sdirve:Station:sdirve_inventaire_000000001_FR*S74*P74137",
+  "id": "urn:ngsi-ld:SDIRVE:Station:000000001:FR*S74*P74137",
     "type": [
       "Station"
     ],
