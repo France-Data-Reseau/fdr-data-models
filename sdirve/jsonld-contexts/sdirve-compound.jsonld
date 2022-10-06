@@ -4,6 +4,7 @@
         "https://raw.githubusercontent.com/france-data-reseau/fdr-data-models/master/sdirve/jsonld-contexts/indicateur.jsonld",
         "https://raw.githubusercontent.com/france-data-reseau/fdr-data-models/master/sdirve/jsonld-contexts/session.jsonld",
         "https://raw.githubusercontent.com/france-data-reseau/fdr-data-models/master/sdirve/jsonld-contexts/parking.jsonld",
+        "https://raw.githubusercontent.com/france-data-reseau/fdr-data-models/master/sdirve/jsonld-contexts/parcelle-fonciere.jsonld",
         "https://raw.githubusercontent.com/france-data-reseau/fdr-data-models/master/fdr/jsonld-contexts/fdr-compound.jsonld"
     ]
 }

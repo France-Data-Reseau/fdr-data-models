@@ -1,0 +1,17 @@
+{
+    "@context": {
+        "code_departement": "https://ontology.francedatareseau.fr/sdirve/parking/code_departement",
+        "code_droit": "https://ontology.francedatareseau.fr/sdirve/parking/code_droit",
+        "code_parcelle": "https://ontology.francedatareseau.fr/sdirve/parking/code_parcelle",
+        "code_voie_majic": "https://ontology.francedatareseau.fr/sdirve/parking/code_voie_majic",
+        "code_voie_rivoli": "https://ontology.francedatareseau.fr/sdirve/parking/code_voie_rivoli",
+        "contenance": "https://ontology.francedatareseau.fr/sdirve/parking/contenance",
+        "denomination_proprietaire": "https://ontology.francedatareseau.fr/sdirve/parking/denomination_proprietaire",
+        "forme_juridique_abg_proprietaire": "https://ontology.francedatareseau.fr/sdirve/parking/forme_juridique_abg_proprietaire",
+        "forme_juridique_proprietaire": "https://ontology.francedatareseau.fr/sdirve/parking/forme_juridique_proprietaire",
+        "groupe_proprietaire": "https://ontology.francedatareseau.fr/sdirve/parking/groupe_proprietaire",
+        "LandPlot": "https://ontology.francedatareseau.fr/sdirve#LandPlot",
+        "numero_personne_majic": "https://ontology.francedatareseau.fr/sdirve/parking/numero_personne_majic",
+        "siren_proprietaire": "https://ontology.francedatareseau.fr/sdirve/parking/siren_proprietaire"
+    }
+}
